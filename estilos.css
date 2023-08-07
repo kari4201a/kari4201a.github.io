@@ -1,0 +1,45 @@
+body {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: skyblue;
+}
+
+#img {
+    height: 350px;
+}
+
+.parrafos {
+    font-style: italic;
+}
+
+.titulos {
+    font-family: 'Times New Roman';
+}
+
+.contInfo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.listas {
+    color: rgb(161, 22, 22);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid black;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#boton {
+    background-color: lightpink;
+}
